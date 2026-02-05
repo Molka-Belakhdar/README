@@ -5,9 +5,9 @@
 Code it. Edit it. Slay it. :)
 </p>
 
--  Currently learning **JavaScript** while exploring **photo & video editing** 🎬📸
+-  Currently learning **JavaScript** while exploring **photo & video editing** !
 
--  Fact: **I can code, edit videos and still slay a GRWM 💄😌**
+-  Fact: **I can code, edit videos and still slay a GRWM ^-^**
 
 -  Reach me at **molka.belakhdar@ecoles-epsi.net**
 
